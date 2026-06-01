@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "component/Home/Home",
+    "component/Knowledge/Knowledge",
+    "component/Exhibit/Exhibit",
+    "component/Collection/Collection",
+    "component/My/User",
+    "pages/VideoPlayer",
+    "component/Home/WebViewPage",
+    "component/My/LoginPage",
+    "component/My/RegisterPage"
+  ]
+}
